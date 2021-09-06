@@ -9,5 +9,5 @@ resources:
 - openshift-gitops.yaml
 #- imagemanifestvulnerability.yaml
 #- complianceoperator.yaml
-#- placement.yaml
+- placement.yaml
 #- placement-no-snc.yaml
