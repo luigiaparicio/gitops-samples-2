@@ -1,1 +1,1 @@
-# gitops-samples-2
+# GitOps Samples
